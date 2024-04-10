@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Your Title"
+abstract: "A very short description of your project"
+version: 0.0.1
+date-released: "2024-4-9"
+license: "CC-BY-NC-SA-4.0"
+repository-code: "https://github.com/your-username/your-project-name"
